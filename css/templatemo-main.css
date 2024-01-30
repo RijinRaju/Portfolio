@@ -893,6 +893,13 @@ display: inline-block;
 	display: inline-block;
   }
 
+  .dot_2{
+	height: 30px;
+	width: 30px;
+	background-color: #bbb;
+	border-radius: 50%;
+	display: inline-block;
+}
 .orange{
 	background-color: orangered;
 }
@@ -927,4 +934,14 @@ background-color: #00bcd4;
 .btn_2:link{
 text-decoration: none;
 color: #00bcd4;
+}
+
+
+.connect-div{
+	margin-top: 200px;
+	padding: 20px;
+	display: flex;
+	justify-content: center;
+
+
 }
